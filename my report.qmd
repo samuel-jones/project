@@ -1,5 +1,5 @@
 ---
-title: "my first report"
+title: "my first report amended"
 format: html
 editor: visual
 embed-resources: true
